@@ -1,0 +1,1 @@
+En este repositorio se cargan todos los ejercicios resueltos del capitulo 11 sobre Test Unitarios aplicados a funciones y clases del libro llamado Python Crash Course del autor Eric Matthes
